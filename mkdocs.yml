@@ -1,0 +1,8 @@
+site_name: "catalog backstage_document"
+site_description: "Catalog Backstage Document"
+
+nav:
+  - Introduction: BackStageDocument.md
+
+plugins:
+  - techdocs-core
